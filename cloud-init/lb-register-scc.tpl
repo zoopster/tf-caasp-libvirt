@@ -1,0 +1,2 @@
+  - [ SUSEConnect, -r, ${sle_registry_code} ]
+  - [ SUSEConnect, -p, sle-ha/15.1/x86_64, -r, ${ha_registry_code} ]
